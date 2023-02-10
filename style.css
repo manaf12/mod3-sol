@@ -1,0 +1,25 @@
+
+
+
+
+#menu-collapse ul {
+    text-align: center;
+} 
+#menu-collapse li:hover{
+text-transform: uppercase;
+font-size: 1.em;
+cursor: pointer;
+}
+
+
+#chicken-container,#sushi-container,#Beef-container{
+    background-color: darkgray;
+    color: black;
+    position: relative;
+    width: 100%;
+}
+#chicken-container span {
+    position: absolute;
+    top: 0px;
+    right: 0xp;
+}
